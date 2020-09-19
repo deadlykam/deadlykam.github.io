@@ -1,14 +1,14 @@
 # Site settings
-title: Syed Waliullah's Portfolio
+title: Kamran Wali's Portfolio
 description: This is were I keep track of all my projects
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Syed Waliullah
+username: Kamran Wali
 user_description: Always loved to play games and thought "Hey! Why not make some games?" and then the rest is history. Have been in game development for more than 10 years and love the challenges it brings.
 user_title: Game Developer
-email: kamran369mars@gmail.com
+email: deadlykam@gmail.com
 twitter_username: https://twitter.com/deadlykam
 github_username:  https://github.com/deadlykam
 
